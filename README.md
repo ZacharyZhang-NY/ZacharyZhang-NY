@@ -20,7 +20,7 @@ Hello! I'm **Zachary Zhang**, an industrious entrepreneur and electrical enginee
 - **💼 Current Role**: AI Engineer & Project Manager at Summit Life Science
 - **🔍 Specializations**: AI, Machine Learning, Embedded Systems, Project Management, SEO, and UI/UX Design
 - **📍 Location**: New York, NY
-- **📫 Contact**: [LinkedIn](https://www.linkedin.com/in/zacharyzhangee/) | [Email](mailto:email@example.com)
+- **📫 Contact**: [LinkedIn](https://www.linkedin.com/in/zacharyzhangee/) | [Email](mailto:yang@zacharyzhang.com)
 
 ---
 
@@ -70,7 +70,6 @@ Hello! I'm **Zachary Zhang**, an industrious entrepreneur and electrical enginee
 ## 💻 Personal Projects
 
 - **[Portfolio Website](https://zacharyzhang.com)**: A showcase of my skills, experience, and projects.
-- **Client Collaborations**: Worked with organizations like [KOIN AI](https://koin.ai), [PinOn.io](https://www.pinon.io), and [KOINera.io](https://koinera.io).
 
 ---
 
