@@ -22,21 +22,6 @@ Hello! I'm **Zachary Zhang**, an industrious entrepreneur and electrical enginee
 - **📍 Location**: New York, NY
 - **📫 Contact**: [LinkedIn](https://www.linkedin.com/in/zacharyzhangee/) | [Email](mailto:yang@zacharyzhang.com)
 
----
-
-## 🎓 Education
-
-- **MS in Project Management**  
-  New York University, NY (2020 - 2022)
-  
-- **MS in Electrical Engineering**  
-  New York University, NY (2018 - 2020)
-  
-- **BS in Electrical Engineering**  
-  Rose-Hulman Institute of Technology, IN (2014 - 2018)
-
----
-
 ## 🛠 Technical Skills
 
 - **Languages**: Python, MATLAB, HTML/CSS, Verilog, C
@@ -48,15 +33,5 @@ Hello! I'm **Zachary Zhang**, an industrious entrepreneur and electrical enginee
 ## 💻 Personal Projects
 
 - **[Portfolio Website](https://zacharyzhang.com)**: A showcase of my skills, experience, and projects.
-
----
-
-## 📞 Get In Touch
-
-- **GitHub**: [ZacharyZhang-NY](https://github.com/ZacharyZhang-NY)
-- **LinkedIn**: [Zachary Zhang](https://www.linkedin.com/in/zacharyzhangee/)
-- **Instagram**: [@zachary_haha](https://www.instagram.com/zachary_haha/)
-
-Feel free to reach out for discussions on **AI, embedded systems,** or **project management**!
 
 ---
