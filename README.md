@@ -37,28 +37,6 @@ Hello! I'm **Zachary Zhang**, an industrious entrepreneur and electrical enginee
 
 ---
 
-## 💼 Professional Experience
-
-### AI Engineer & Project Manager  
-**Summit Life Science, Inc.**, Long Island, NY  
-*Responsibilities:*
-- Redesigned the company’s website, improving UX and implementing SEO strategies.
-- Leveraged AI and machine learning to analyze marketing trends and customer behaviors, enhancing strategy and automating processes.
-
-### Co-Founder & AI System Architecture Engineer  
-**KOIN Capital Inc.**, New York, NY  
-*Achievements:*
-- Streamlined acceptance test procedures with Six Sigma, reducing time and costs.
-- Designed the company website and app UI/UX for an intuitive user experience.
-
-### Co-Founder & Embedded Systems Engineer  
-**PinOn Inc.**, New York, NY  
-*Contributions:*
-- Developed embedded systems and computer vision algorithms using NVIDIA Jetson.
-- Collaborated with 30+ NYC restaurants to deliver tailored AI solutions.
-
----
-
 ## 🛠 Technical Skills
 
 - **Languages**: Python, MATLAB, HTML/CSS, Verilog, C
