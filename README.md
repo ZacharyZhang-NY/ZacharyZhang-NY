@@ -32,6 +32,8 @@ Hello! I'm **Zachary Zhang**, an industrious entrepreneur and electrical enginee
 
 ## 💻 Personal Projects
 
+- **[Anti-PUA](https://anti-pua.org)**: An iOS, Android, Webapp, for people to protect themselfs From PUA.
+- **[AI Promot Share](https://www.ai-prompt-share.com/)**: Free Cursor Rules & AI Prompt Library.
 - **[Portfolio Website](https://zacharyzhang.com)**: A showcase of my skills, experience, and projects.
 
 ---
