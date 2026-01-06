@@ -19,8 +19,17 @@ Hello! I'm **Zachary Zhang**, an industrious entrepreneur and electrical enginee
 
 ## 💻 Personal Projects
 
-- **[Anti-PUA](https://anti-pua.org)**: An iOS, Android, Webapp, for people to protect themselfs From PUA.
-- **[AI Promot Share](https://www.ai-prompt-share.com/)**: Free Cursor Rules & AI Prompt Library.
-- **[Portfolio Website](https://zacharyzhang.com)**: A showcase of my skills, experience, and projects.
+- **KOIN AI** · [https://koin.ai](https://koin.ai)
+  iOS (Swift), Android (Kotlin), and Next.js 16 platform. Built as a **proactive AI system** for real-time financial news monitoring and investment signal generation.
+- **Stablelance** · [https://stablelance.com](https://stablelance.com)
+  Fiverr-style freelancing marketplace with **Web3 stablecoin payments**. Full stack implementation including notifications, real-time chat, file handling, and blockchain integration.
+- **MedReg AI** · [https://www.medical-regulation.com](https://www.medical-regulation.com)
+  AI-driven regulatory compliance platform for **medical devices, pharmaceuticals, and dietary supplements**. Upload documentation, receive instant analysis, and identify regulatory gaps.
+- **Anti‑PUA** · [https://anti-pua.org](https://anti-pua.org)
+  iOS, Android, and Web application using React Native, designed to help users **identify and protect themselves from PUA manipulation tactics**.
+- **AI Prompt Share** · [https://www.ai-prompt-share.com](https://www.ai-prompt-share.com)
+  Free, community-driven **Cursor rules and AI prompt library** for developers and power users.
+- **Zachary Zhang Portfolio** · [https://zacharyzhang.com](https://zacharyzhang.com)
+  Personal portfolio showcasing projects, technical expertise, and product design work.
 
 ---
