@@ -20,9 +20,9 @@
 
 ## Overview
 
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="56%">
+    <td valign="top">
       <h3>About</h3>
       <p>
         Hello! I’m <strong>Zachary Zhang</strong>, an industrious entrepreneur and electrical engineer with over 5 years of experience in AI, embedded systems, and project management.
@@ -31,7 +31,9 @@
         I lead projects and build products across AI, machine learning, embedded systems, SEO, and UI/UX design.
       </p>
     </td>
-    <td valign="top" width="44%">
+  </tr>
+  <tr>
+    <td valign="top">
       <h3>At a glance</h3>
       <ul>
         <li><strong>Current role:</strong> AI Engineer &amp; Project Manager — Summit Life Science</li>
@@ -42,7 +44,7 @@
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="50%">
       <strong>AI systems</strong><br />
@@ -72,17 +74,19 @@
     <td valign="top" width="50%">
       <a href="https://koin.ai"><strong>KOIN AI</strong></a><br />
       <sub>Proactive AI system for real-time financial news monitoring and investment signal generation.</sub><br />
-      <sub><code>Swift</code> · <code>Kotlin</code> · <code>Next.js 16</code></sub>
+      <sub><code>Swift</code> · <code>Kotlin</code> · <code>Next.js 16</code> · <code>AI</code></sub>
     </td>
     <td valign="top" width="50%">
       <a href="https://stablelance.com"><strong>Stablelance</strong></a><br />
-      <sub>Freelancing marketplace with Web3 stablecoin payments, real-time chat, notifications, and file handling.</sub>
+      <sub>Freelancing marketplace with Web3 stablecoin payments, real-time chat, notifications, and file handling.</sub><br />
+      <sub><code>Next.js 16</code> · <code>Web3</code> · <code>AI</code></sub>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
       <a href="https://www.medical-regulation.com"><strong>MedReg AI</strong></a><br />
-      <sub>AI-driven regulatory compliance for medical devices, pharmaceuticals, and dietary supplements.</sub>
+      <sub>AI-driven regulatory compliance for medical devices, pharmaceuticals, and dietary supplements.</sub><br />
+      <sub><code>RAG</code> · <code>Next.js 16</code> · <code>AI</code></sub>
     </td>
     <td valign="top" width="50%">
       <a href="https://anti-pua.org"><strong>Anti‑PUA</strong></a><br />
@@ -91,11 +95,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
-      <a href="https://www.ai-prompt-share.com"><strong>AI Prompt Share</strong></a><br />
-      <sub>Free, community-driven Cursor rules and AI prompt library for developers and power users.</sub>
-    </td>
-    <td valign="top" width="50%">
+    <td valign="top" colspan="2">
       <a href="https://zacharyzhang.com"><strong>Portfolio</strong></a><br />
       <sub>Projects, technical expertise, and product design work.</sub>
     </td>
