@@ -1,6 +1,6 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Zachary Zhang</title>
-  <desc id="desc">Profile header: Zachary Zhang — AI Engineer and Project Manager.</desc>
+  <desc id="desc">Profile header: Zachary Zhang — AI Product Engineer.</desc>
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
@@ -105,7 +105,7 @@
       letter-spacing="0.2"
       font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
     >
-      AI Engineer • Project Manager • Electrical Engineer
+      AI Product Engineer • Co-founder &amp; CTO • Electrical Engineer
     </text>
     <text
       x="2"
@@ -116,7 +116,7 @@
       letter-spacing="0.2"
       font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
     >
-      New York, NY · Summit Life Science
+      New York, NY · GiraStyle AI · Aedylon · KOIN · Omarchy
     </text>
   </g>
 
